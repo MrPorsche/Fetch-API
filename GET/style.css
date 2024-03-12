@@ -1,0 +1,34 @@
+body {
+    color: #FFF;
+    background-color: #000;
+}
+
+.list {
+    display: flex;
+}
+
+.names {
+    width: 162px;
+}
+
+.users {
+    width: 150px;
+}
+
+.emails {
+    width: 180px;
+}
+
+.phones {
+    width: 160px;
+}
+
+
+li {
+    list-style: none;
+    width: 100%;
+}
+
+label {
+    font-weight: 900;
+}
